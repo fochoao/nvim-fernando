@@ -33,7 +33,6 @@ NeoVim Configuration made by Fernando Ochoa O. modified from Takuya.
 
 ## PowerShell setup (Windows)
 
-- [Scoop](https://scoop.sh/) - A command-line installer
 - [Git for Windows](https://gitforwindows.org/)
 - [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
 - [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
