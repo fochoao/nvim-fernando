@@ -1,6 +1,10 @@
-# nvim-fernando
+# Nvim Fernando's Configuration
 
 NeoVim Configuration made by Fernando Ochoa O. modified from Takuya.
+
+# Preview
+
+- [Video](https://streamable.com/e9ua7q)
 
 ## Contents
 
